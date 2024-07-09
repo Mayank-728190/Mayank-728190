@@ -1,4 +1,4 @@
-![logo](https://github.com/Mayank-728190/Mayank-728190/blob/main/Github%20Banner.png)
+![logo](https://github.com/Mayank-728190/Mayank-728190/blob/main/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
 
 <h1 align="center">Hi 👋, I'm Mayank</h1>
 <h3 align="center">A passionate web developer and coder from India</h3>

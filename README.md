@@ -18,7 +18,7 @@
 <a href="https://twitter.com/mayank991827" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayank991827" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/mayank0510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mayank0510" height="30" width="40" /></a>
 <a href="https://instagram.com/mayank99182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayank99182" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/mayank9918/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mayank9918/" height="30" width="40" /></a>
+
 </p>
 
 
